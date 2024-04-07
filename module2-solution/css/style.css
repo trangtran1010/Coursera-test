@@ -1,6 +1,7 @@
 .textColor{
-    color: red;
+    color: black;
 }
 .textBox{
     border-color: black;
+    background-color: red;
 }
