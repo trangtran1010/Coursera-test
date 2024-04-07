@@ -1,0 +1,8 @@
+.textColor{
+    color: black;
+    font-size: 10px;
+}
+.textBox{
+    border-color: black;
+    background-color: red;
+}
